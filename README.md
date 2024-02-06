@@ -14,6 +14,8 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-For now it is a simple login/signup page for an application still in development. The signup is connected to firebase so you can use your credentials to login.
+For now I am building an app where you can see available apartments up for rent. The signup is connected to firebase so you can use your credentials to login, and your details are store in Firestore.
 
 The dashboard is still in development.
+
+Updating as I progress.

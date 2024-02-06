@@ -31,7 +31,7 @@ function CustomTextInput({ value, onChange, isPassword, width, height, placehold
             borderRadius: '10px',
             marginTop: '13px',
             fontFamily: "Satoshi-var",
-            fontSize: '15px',
+            fontSize: '13px',
             paddingLeft: '10px',
             paddingRight: '40px',
           }}
